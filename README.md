@@ -24,6 +24,13 @@
 <br />
 
 
+<br />
+
+<img align="left" alt="Carolina's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinanonato" />
+
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=carolinanonato&show_icons=true&hide_border=true" />
+
+
 [website]: https:/www.carolinanonato.ca/
 [instagram]: https://www.instagram.com/csnonato/
 [linkedin]: https://www.linkedin.com/in/carolina-nonato/
