@@ -1,5 +1,5 @@
 
- <img align="right" alt="GIF of a black haired girl typing in a laptop. She's using a white headphone and wearing a yellow sweater"  src="https://user-images.githubusercontent.com/44845754/164467449-bc920d8e-37ac-413a-9952-ec6fe8760170.gif" width="250" height="250" />
+ <img align="right" alt="GIF of a black haired girl typing in a laptop. She's using a white headphone and wearing a yellow sweater"  src="https://user-images.githubusercontent.com/44845754/164467449-bc920d8e-37ac-413a-9952-ec6fe8760170.gif" width="200" height="200" />
 
 ### Hi there, I'm Carol 👋
 
