@@ -18,7 +18,6 @@
 
 [<img align="left" alt="Carolina Nonato | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/44845754/164472976-ae9694c6-4872-431f-9282-b7a8c4fbf197.png" />][linkedin]
 [<img align="left" alt="Carolina Nonato | Twitter" width="22px" src="https://user-images.githubusercontent.com/44845754/164476635-72c86645-f000-4ee3-ba5b-88d8bac5b69f.png" />][twitter]
-[<img align="left" alt="Carolina Nonato | Instagram" width="22px" src="https://user-images.githubusercontent.com/44845754/164476676-9cdc3da8-f8e4-407e-8764-d60914a39d37.png" />][instagram]
 
 
 <br />
