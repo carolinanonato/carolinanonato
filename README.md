@@ -48,3 +48,6 @@
 [instagram]: https://www.instagram.com/csnonato/
 [linkedin]: https://www.linkedin.com/in/carolina-nonato/
 [twitter]: https://twitter.com/Carolthedev
+
+
+![Snake animation](https://github.com/carolinanonato/carolinanonato/blob/output/github-contribution-grid-snake.svg)
