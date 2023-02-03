@@ -11,7 +11,7 @@
 - 📫 How to reach me: contact@carolinanonato.ca
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can speak 4 languages (English, Portuguese, Spanish and Japanese).
-- 🎨 My portfolio: [www.carolinanonato.ca](http://www.carolinanonato.ca)
+
 
 
 ### Come talk with me!
